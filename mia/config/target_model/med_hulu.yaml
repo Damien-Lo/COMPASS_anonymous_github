@@ -1,0 +1,4 @@
+type: hulu_med
+# model_path: /path/to/local/Hulu-Med-32B  # optional local checkpoint override
+model_path: ZJU-AI4H/Hulu-Med-32B
+adapter_path: null
